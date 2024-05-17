@@ -41,6 +41,9 @@ LANGUAGE
 LANGUAGE
   ~French~  ~french~               ~PST-SaveNordomTweak/tra/english/setup.tra~
                                    ~PST-SaveNordomTweak/tra/french/setup.tra~ 
+LANGUAGE
+  ~Simplified Chinese~  ~schinese~               ~PST-SaveNordomTweak/tra/english/setup.tra~
+                                   ~PST-SaveNordomTweak/tra/schinese/setup.tra~ 
 
 BEGIN @12
 REQUIRE_PREDICATE GAME_IS ~pst pstee~ @200
